@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBiblioteca</string>
+    <string name="show_books">Mostrar Livros</string>
+    <string name="updage_book">Editar Livro</string>
+    <string name="new_book">Novo Livro</string>
+    <string name="books_list">Listagem de livros</string>
+</resources>
